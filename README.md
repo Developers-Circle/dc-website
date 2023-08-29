@@ -1,1 +1,1 @@
-# dc-website
+"Developers Circle" Website: A simple community website with information about us, server stats, the possibility to develop trivia stats and a leaderboard at a later stage, integration of additional features. Required skills: Next.js or React (HTML/CSS, Javascript), API, GitHub, Vercel/Express or other alternatives, Firebase, MongoDB or Supabase (for later features).
